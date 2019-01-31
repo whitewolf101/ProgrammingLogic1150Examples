@@ -10,3 +10,4 @@ print('Here is all of the data you entered:')
 
 for month, snow in snowfall.items():
     print(f'In {month} there was {snow} inches of snow.')
+

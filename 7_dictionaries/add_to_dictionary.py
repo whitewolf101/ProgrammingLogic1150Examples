@@ -1,15 +1,9 @@
 
-colleges = {'Minneapolis College': '1501 Hennepin Avenue, Minneapolis',
-            'Metro State': '100 E 7th St, St. Paul',
-            'Saint Paul College': '235 Marshall Avenue, St. Paul',
-            'North Hennepin Community College': '7411 85th Ave N, Brooklyn Park',
-            'Century College': '3300 Century Avenue N, White Bear Lake'}
 
-for college in colleges:
-    print(college)
+games_and_publishers = {'Minecraft': 'Mojang', 'Overwatch': 'Blizzard', 'Fortnight': 'Epic'}
 
-colleges['Normandale Community College'] = '9700 France Avenue S, Bloomington'
+print(games_and_publishers)
 
-print(colleges)
-# New key for Normandale Community College added
-# {'Minneapolis College': '1501 Hennepin Avenue, Minneapolis', 'Metro State': '100 E 7th St, St. Paul', 'Saint Paul College': '235 Marshall Avenue, St. Paul', 'North Hennepin Community College': '7411 85th Ave N, Brooklyn Park', 'Century College': '3300 Century Avenue N, White Bear Lake', 'Normandale Community College': '9700 France Avenue S, Bloomington'}
+games_and_publishers['Super Mario'] = 'Nintendo'
+
+print(games_and_publishers)

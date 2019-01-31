@@ -35,12 +35,12 @@ normandale_address = colleges.get('Normandale Community College')
 if normandale_address:
     print(f'Normandale College\'s address is {normandale_address}')
 else:
-    print('Normandale College address not found.')  # This prints: Normandale College address not found.
+    print('Normandale College address not found.')  # This prints:                        Normandale College address not found.
 
 
 minneapolis_address = colleges.get('Minneapolis College')
 if minneapolis_address:
-    print(f'Minneapolis College\'s address is {minneapolis_address}')  # This prints: Minneapolis College's address is 1501 Hennepin Avenue, Minneapolis
+    print(f'Minneapolis College\'s address is {minneapolis_address}')  # This prints:       Minneapolis College's address is 1501 Hennepin Avenue, Minneapolis
 else:
     print('Minneapolis College address not found.')
 

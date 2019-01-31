@@ -8,13 +8,3 @@ colleges = {'Minneapolis College': '1501 Hennepin Avenue, Minneapolis',
 for college in colleges:
     print(college)
 
-# Metro State has another campus at Harmon Place
-colleges['Metro State'] = 'Harmon Place, Minneapolis'
-
-print(colleges)
-# Metro State key's value has changed
-
-# If you try and change a key that doesn't exist, it will be added to the dictionary
-colleges['Hennepin Technical College'] = '13100 College View Dr, Eden Prairie'
-# This includes a new key: value for Hennepin Technical College
-

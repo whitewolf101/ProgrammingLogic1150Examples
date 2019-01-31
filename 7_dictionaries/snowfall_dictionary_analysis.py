@@ -23,3 +23,6 @@ average = total_snow / months
 print()
 print(f'The total amount of snow in {months} months is {total_snow} inches.')
 print(f'The average amount of snow per month is {average:.2f} inches')
+
+
+

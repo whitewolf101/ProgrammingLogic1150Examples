@@ -11,15 +11,11 @@ for college in colleges:
 # remove key-value pair with pop
 colleges.pop('Metro State')
 print(colleges)  # Everything except Metro State's key-value pair
-# prints {'Minneapolis College': '1501 Hennepin Avenue, Minneapolis', 'Saint Paul College': '235 Marshall Avenue, St. Paul', 'North Hennepin Community College': '7411 85th Ave N, Brooklyn Park', 'Century College': '3300 Century Avenue N, White Bear Lake'}
-
 
 # Like lists, pop will return the value for the key
 century_address = colleges.pop('Century College')
 print(century_address)  # 3300 Century Avenue N, White Bear Lake
 print(colleges)   # key-value pair for Century College is removed
-# {'Minneapolis College': '1501 Hennepin Avenue, Minneapolis', 'Saint Paul College': '235 Marshall Avenue, St. Paul', 'North Hennepin Community College': '7411 85th Ave N, Brooklyn Park'}
-
 
 # Unlike lists, pop with no arguments does not work.
 # You need to specify the key of the key-value pair to remove.
