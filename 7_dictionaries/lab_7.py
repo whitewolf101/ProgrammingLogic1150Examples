@@ -28,13 +28,17 @@ Don't modify the get_exchange_rates function or the example_exchange_rates funct
 
 
 def main():
-    print('Write your code here.')
+    print('Remove this print statement, and then write your code here.')
 
 
 
 
-# You do not need to modify any code below this line.
+# You do not need to modify any code below here line.
+
+
 def get_exchange_rates():
+    """" Connect to the exchangeratesapi.io server and request the latest exchange rates,
+    relative to US Dollars.  Return the response as a dictionary. """
 
     url = 'https://api.exchangeratesapi.io/latest?base=USD'
 
@@ -43,11 +47,12 @@ def get_exchange_rates():
         data = json.loads(response)
         return data
     except:
-        print('Error fetching data. Check that you are online? Using placeholder data.')
+        print('Warning: there was an error fetching data. Check that you are online? Returning example data.')
         return example_exchange_rates()
 
 
 def example_exchange_rates():
+    """ In case the exchangeratesapi.io is not available, the program will use this example data. """
     return {
        "base": "USD",
        "date": "2019-01-30",
