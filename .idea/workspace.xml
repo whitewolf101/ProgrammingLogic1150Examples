@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c38fbbc-6e27-421f-a728-4e30b1851415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7_dictionaries/dictionary_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_dictionaries/keys_values_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_dictionaries/loop_dictionary_colleges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_dictionaries/quiz_scores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_dictionaries/rooms_and_paint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_dictionaries/lab_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_dictionaries/add_to_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_dictionaries/add_to_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_dictionaries/change_dictionary_key.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_dictionaries/change_dictionary_key.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_dictionaries/checking_if_key_in_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_dictionaries/checking_if_key_in_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_dictionaries/get_from_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_dictionaries/get_from_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_dictionaries/hello_dictionary_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_dictionaries/hello_dictionary_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_dictionaries/remove_from_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_dictionaries/remove_from_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_dictionaries/snowfall_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_dictionaries/snowfall_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_dictionaries/snowfall_dictionary_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_dictionaries/snowfall_dictionary_analysis.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +21,7 @@
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$library_functions.coverage" NAME="library_functions Coverage Results" MODIFIED="1547923481728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$len.coverage" NAME="len Coverage Results" MODIFIED="1548876279243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_lists" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$valid_credits_function.coverage" NAME="valid_credits_function Coverage Results" MODIFIED="1547926674195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$lab_7.coverage" NAME="lab_7 Coverage Results" MODIFIED="1548898396336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_dictionaries" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$am_i_online.coverage" NAME="am_i_online Coverage Results" MODIFIED="1547660297014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$todo_list_loop_count_tasks.coverage" NAME="todo_list_loop_count_tasks Coverage Results" MODIFIED="1548876137244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_lists" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$not.coverage" NAME="not Coverage Results" MODIFIED="1547585679629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
@@ -131,37 +119,38 @@
     <session id="1026850044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="219" />
+          <entry key="py" value="221" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="217" />
+          <entry key="Python" value="219" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="67" />
           <entry key="dummy" value="139" />
-          <entry key="py" value="51711" />
-          <entry key="txt" value="427" />
+          <entry key="py" value="52860" />
+          <entry key="txt" value="458" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1032" />
-          <entry key="Python" value="51312" />
+          <entry key="PLAIN_TEXT" value="1063" />
+          <entry key="Python" value="52461" />
         </counts>
       </usages-collector>
     </session>
@@ -169,28 +158,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/hello_dictionary_loop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/change_dictionary_key.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7_dictionaries/checking_if_key_in_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="690">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -199,7 +170,7 @@
         <entry file="file://$PROJECT_DIR$/7_dictionaries/snowfall_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -208,7 +179,7 @@
         <entry file="file://$PROJECT_DIR$/7_dictionaries/snowfall_dictionary_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -217,16 +188,42 @@
         <entry file="file://$PROJECT_DIR$/7_dictionaries/quiz_scores.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7_dictionaries/remove_from_dictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/remove_from_dictionary.py">
+        <entry file="file://$PROJECT_DIR$/7_dictionaries/lab_7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="225">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <marker date="1548898603000" expanded="true" signature="601:695" ph="..." />
+                <marker date="1548898603000" expanded="true" signature="720:722" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4_loops/am_i_online.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="20" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -235,7 +232,7 @@
         <entry file="file://$PROJECT_DIR$/7_dictionaries/get_from_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -244,7 +241,7 @@
         <entry file="file://$PROJECT_DIR$/7_dictionaries/add_to_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -253,7 +250,7 @@
         <entry file="file://$PROJECT_DIR$/7_dictionaries/loop_dictionary_colleges.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -270,9 +267,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&quot;</find>
+      <find>:</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
+      <replace>:</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -289,7 +288,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4_functions/scope_fixed.py" />
         <option value="$PROJECT_DIR$/4_functions/name_squares.py" />
         <option value="$PROJECT_DIR$/5_functions/return_boolean.py" />
         <option value="$PROJECT_DIR$/3_if_statements/should_close_campus.py" />
@@ -340,6 +338,7 @@
         <option value="$PROJECT_DIR$/7_dictionaries/snowfall_dictionary.py" />
         <option value="$PROJECT_DIR$/7_dictionaries/snowfall_dictionary_analysis.py" />
         <option value="$PROJECT_DIR$/7_dictionaries/remove_from_dictionary.py" />
+        <option value="$PROJECT_DIR$/7_dictionaries/lab_7.py" />
       </list>
     </option>
   </component>
@@ -350,9 +349,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="72" />
-    <option name="width" value="1186" />
+    <option name="x" value="72" />
+    <option name="y" value="58" />
+    <option name="width" value="1117" />
     <option name="height" value="821" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -380,7 +379,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -391,12 +389,7 @@
             <path>
               <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="6_lists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="7_dictionaries" type="462c0819:PsiDirectoryNode" />
+              <item name="4_loops" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
@@ -416,6 +409,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -462,7 +456,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hello_dictionary_loop">
+  <component name="RunManager" selected="Python.lab_7">
     <configuration name="add_to_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -529,6 +523,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1150ProgrammingLogicExamples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_dictionaries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_dictionaries/lab_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="loop_dictionary_colleges" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -551,42 +567,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rooms_and_paint" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="1150ProgrammingLogicExamples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_dictionaries" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_dictionaries/rooms_and_paint.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.rooms_and_paint" />
       <item itemvalue="Python.keys_values_items" />
       <item itemvalue="Python.add_to_dictionary" />
       <item itemvalue="Python.loop_dictionary_colleges" />
       <item itemvalue="Python.hello_dictionary_loop" />
+      <item itemvalue="Python.lab_7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab_7" />
         <item itemvalue="Python.hello_dictionary_loop" />
         <item itemvalue="Python.loop_dictionary_colleges" />
         <item itemvalue="Python.add_to_dictionary" />
         <item itemvalue="Python.keys_values_items" />
-        <item itemvalue="Python.rooms_and_paint" />
       </list>
     </recent_temporary>
   </component>
@@ -706,18 +700,26 @@
       <option name="project" value="LOCAL" />
       <updated>1548887726553</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="more dictionaries examples">
+      <created>1548897666486</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1548897666486</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="72" width="1186" height="821" extended-state="0" />
+    <frame x="72" y="58" width="1117" height="821" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19318181" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21116279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0521262" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20027435" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -779,27 +781,10 @@
     <MESSAGE value="re-number directories to match weeks" />
     <MESSAGE value="lists examples" />
     <MESSAGE value="dictionaries examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="dictionaries examples" />
+    <MESSAGE value="more dictionaries examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="more dictionaries examples" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5_functions/valid_credits_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <marker date="1547926717000" expanded="true" signature="172:578" ph="..." />
-            <marker date="1547926717000" expanded="true" signature="749:908" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_if_statements/should_close_campus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5_functions/credits_to_graduate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1069,73 +1054,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/add_to_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/loop_dictionary_colleges.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7_dictionaries/hello_dictionary_loop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7_dictionaries/change_dictionary_key.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/get_from_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7_dictionaries/checking_if_key_in_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="690">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7_dictionaries/snowfall_dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7_dictionaries/snowfall_dictionary_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7_dictionaries/quiz_scores.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_dictionaries/get_from_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_dictionaries/add_to_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_dictionaries/loop_dictionary_colleges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7_dictionaries/remove_from_dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="420">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_loops/am_i_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_dictionaries/lab_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1548898603000" expanded="true" signature="601:695" ph="..." />
+            <marker date="1548898603000" expanded="true" signature="720:722" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
