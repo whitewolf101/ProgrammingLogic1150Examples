@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c38fbbc-6e27-421f-a728-4e30b1851415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7_dictionaries/dictionaries_contain_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_dictionaries/dictionary_containing_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_strings/escape_characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_strings/find_in_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_strings/formatting_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_strings/hello_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_strings/in_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_strings/join_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_strings/loop_over_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_strings/split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_strings/upper_and_lower.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +45,7 @@
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_2a.coverage" NAME="quiz_2a Coverage Results" MODIFIED="1547842448289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$regex_while_loop_validation.coverage" NAME="regex_while_loop_validation Coverage Results" MODIFIED="1547861785788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$changing_list_items_variable.coverage" NAME="changing_list_items_variable Coverage Results" MODIFIED="1548873845580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_lists" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$in_string.coverage" NAME="in_string Coverage Results" MODIFIED="1548962260588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_strings" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$keys_values_items.coverage" NAME="keys_values_items Coverage Results" MODIFIED="1548895414198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_dictionaries" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$changing_list_items.coverage" NAME="changing_list_items Coverage Results" MODIFIED="1548873659991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_lists" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$range_from_to.coverage" NAME="range_from_to Coverage Results" MODIFIED="1547862784796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
@@ -61,6 +69,7 @@
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1546788678372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$dictionary_containing_dictionary.coverage" NAME="dictionary_containing_dictionary Coverage Results" MODIFIED="1548900219136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_dictionaries" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$popcorn.coverage" NAME="popcorn Coverage Results" MODIFIED="1546539323208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_variables" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$join_strings.coverage" NAME="join_strings Coverage Results" MODIFIED="1548962350964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_strings" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$quiz_2.coverage" NAME="quiz_2 Coverage Results" MODIFIED="1547661198810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$rectangle.coverage" NAME="rectangle Coverage Results" MODIFIED="1547924351478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$dictionaries_contain_lists.coverage" NAME="dictionaries_contain_lists Coverage Results" MODIFIED="1548900131842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_dictionaries" />
@@ -73,6 +82,7 @@
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$country_codes_lookup.coverage" NAME="country_codes_lookup Coverage Results" MODIFIED="1548887711150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_dictionaries" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$full_time_part_time_student.coverage" NAME="full_time_part_time_student Coverage Results" MODIFIED="1547848330045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_if_statements" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$uppercase_short_version.coverage" NAME="uppercase_short_version Coverage Results" MODIFIED="1547920916626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_functions" />
+    <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$escape_characters.coverage" NAME="escape_characters Coverage Results" MODIFIED="1548962051824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_strings" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$colleges_and_addresses.coverage" NAME="colleges_and_addresses Coverage Results" MODIFIED="1548884947826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_dictionaries" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$loop_dictionary_colleges.coverage" NAME="loop_dictionary_colleges Coverage Results" MODIFIED="1548896200111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_dictionaries" />
     <SUITE FILE_PATH="coverage/1150ProgrammingLogicExamples$while_star_id_valid.coverage" NAME="while_star_id_valid Coverage Results" MODIFIED="1547859897415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_loops" />
@@ -123,38 +133,38 @@
     <session id="1026850044">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="225" />
+          <entry key="py" value="234" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="223" />
+          <entry key="Python" value="232" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="67" />
           <entry key="dummy" value="139" />
-          <entry key="py" value="54470" />
-          <entry key="txt" value="483" />
+          <entry key="py" value="56505" />
+          <entry key="txt" value="506" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1088" />
-          <entry key="Python" value="54071" />
+          <entry key="PLAIN_TEXT" value="1111" />
+          <entry key="Python" value="56106" />
         </counts>
       </usages-collector>
     </session>
@@ -162,99 +172,79 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/quiz_scores.py">
+        <entry file="file://$PROJECT_DIR$/7_dictionaries/dictionary_containing_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/remove_from_dictionary.py">
+        <entry file="file://$PROJECT_DIR$/8_strings/hello_string.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/lab_7.py">
+        <entry file="file://$PROJECT_DIR$/8_strings/escape_characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-                <marker date="1548898712000" expanded="true" signature="805:899" ph="..." />
-                <marker date="1548898712000" expanded="true" signature="924:926" ph="..." />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/dictionaries_contain_lists.py">
+        <entry file="file://$PROJECT_DIR$/8_strings/formatting_numbers.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8_strings/loop_over_string.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8_strings/upper_and_lower.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8_strings/find_in_string.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="45">
+              <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8_strings/in_string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="115" selection-start-line="24" selection-start-column="115" selection-end-line="24" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8_strings/join_strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/dictionary_containing_dictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/dictionary_examples.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="48" selection-start-line="48" selection-end-line="53" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4_loops/am_i_online.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="20" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/get_from_dictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/add_to_dictionary.py">
+        <entry file="file://$PROJECT_DIR$/8_strings/split.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7_dictionaries/loop_dictionary_colleges.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -292,15 +282,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello_lists.py" />
-        <option value="$PROJECT_DIR$/6_lists/streets.py" />
-        <option value="$PROJECT_DIR$/6_lists/different_types_of_lists.py" />
-        <option value="$PROJECT_DIR$/6_lists/todo_list_loop.py" />
-        <option value="$PROJECT_DIR$/6_lists/accessing_list_items.py" />
-        <option value="$PROJECT_DIR$/6_lists/accessing_list_items_error.py" />
-        <option value="$PROJECT_DIR$/6_lists/changing_list_items.py" />
-        <option value="$PROJECT_DIR$/6_lists/changing_list_items_variable.py" />
-        <option value="$PROJECT_DIR$/6_lists/changing_list_items_variable_index.py" />
         <option value="$PROJECT_DIR$/6_lists/changing_list_items_variable_index_for_humans.py" />
         <option value="$PROJECT_DIR$/6_lists/lists_and_loop.py" />
         <option value="$PROJECT_DIR$/6_lists/adding_up_list_items.py" />
@@ -343,6 +324,15 @@
         <option value="$PROJECT_DIR$/7_dictionaries/sddfhfdgh.py" />
         <option value="$PROJECT_DIR$/7_dictionaries/dictionaries_contain_lists.py" />
         <option value="$PROJECT_DIR$/7_dictionaries/dictionary_containing_dictionary.py" />
+        <option value="$PROJECT_DIR$/8_strings/hello_string.py" />
+        <option value="$PROJECT_DIR$/8_strings/formatting_numbers.py" />
+        <option value="$PROJECT_DIR$/8_strings/loop_over_string.py" />
+        <option value="$PROJECT_DIR$/8_strings/upper_and_lower.py" />
+        <option value="$PROJECT_DIR$/8_strings/escape_characters.py" />
+        <option value="$PROJECT_DIR$/8_strings/find_in_string.py" />
+        <option value="$PROJECT_DIR$/8_strings/in_string.py" />
+        <option value="$PROJECT_DIR$/8_strings/join_strings.py" />
+        <option value="$PROJECT_DIR$/8_strings/split.py" />
       </list>
     </option>
   </component>
@@ -377,12 +367,15 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -393,7 +386,7 @@
             <path>
               <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="1150ProgrammingLogicExamples" type="462c0819:PsiDirectoryNode" />
-              <item name="7_dictionaries" type="462c0819:PsiDirectoryNode" />
+              <item name="8_strings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1150ProgrammingLogicExamples" type="b2602c69:ProjectViewProjectNode" />
@@ -403,7 +396,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -450,7 +442,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dictionary_containing_dictionary">
+  <component name="RunManager" selected="Python.join_strings">
     <configuration name="dictionaries_contain_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -495,7 +487,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello_dictionary_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="escape_characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -503,12 +495,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_dictionaries/hello_dictionary_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_strings/escape_characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -517,7 +509,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="in_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -525,12 +517,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_dictionaries/lab_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_strings/in_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -539,7 +531,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sddfhfdgh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="join_strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1150ProgrammingLogicExamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -547,12 +539,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8_strings" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_dictionaries/sddfhfdgh.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_strings/join_strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -562,19 +554,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hello_dictionary_loop" />
-      <item itemvalue="Python.lab_7" />
-      <item itemvalue="Python.sddfhfdgh" />
       <item itemvalue="Python.dictionaries_contain_lists" />
       <item itemvalue="Python.dictionary_containing_dictionary" />
+      <item itemvalue="Python.escape_characters" />
+      <item itemvalue="Python.in_string" />
+      <item itemvalue="Python.join_strings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.join_strings" />
+        <item itemvalue="Python.in_string" />
+        <item itemvalue="Python.escape_characters" />
         <item itemvalue="Python.dictionary_containing_dictionary" />
         <item itemvalue="Python.dictionaries_contain_lists" />
-        <item itemvalue="Python.sddfhfdgh" />
-        <item itemvalue="Python.lab_7" />
-        <item itemvalue="Python.hello_dictionary_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -708,19 +700,26 @@
       <option name="project" value="LOCAL" />
       <updated>1548898722196</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="nested dictionaries">
+      <created>1548900300905</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1548900300905</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="72" y="58" width="1117" height="821" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21116279" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21488371" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17283951" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17283951" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -784,72 +783,10 @@
     <MESSAGE value="dictionaries examples" />
     <MESSAGE value="more dictionaries examples" />
     <MESSAGE value="lab 7 question 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 7 question 2" />
+    <MESSAGE value="nested dictionaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested dictionaries" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6_lists/hello_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_lists/streets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_lists/different_types_of_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_lists/accessing_list_items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_lists/accessing_list_items_error.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_lists/changing_list_items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_lists/changing_list_items_variable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_lists/changing_list_items_variable_index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6_lists/changing_list_items_variable_index_for_humans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6_lists/adding_up_credits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1067,10 +1004,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7_dictionaries/sddfhfdgh.py" />
     <entry file="file://$PROJECT_DIR$/7_dictionaries/quiz_scores.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_dictionaries/remove_from_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_dictionaries/lab_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <marker date="1548898712000" expanded="true" signature="805:899" ph="..." />
+            <marker date="1548898712000" expanded="true" signature="924:926" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_dictionaries/dictionaries_contain_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7_dictionaries/dictionary_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="53" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_loops/am_i_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1095,60 +1076,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/remove_from_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4_loops/am_i_online.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/sddfhfdgh.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/lab_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <marker date="1548898712000" expanded="true" signature="805:899" ph="..." />
-            <marker date="1548898712000" expanded="true" signature="924:926" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/dictionary_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="48" selection-start-line="48" selection-end-line="53" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/dictionaries_contain_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7_dictionaries/dictionary_containing_dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_strings/hello_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_strings/formatting_numbers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_strings/loop_over_string.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_strings/upper_and_lower.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_strings/escape_characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_strings/find_in_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_strings/in_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="115" selection-start-line="24" selection-start-column="115" selection-end-line="24" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_strings/join_strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8_strings/split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
         </state>
       </provider>
     </entry>
