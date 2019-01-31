@@ -8,13 +8,19 @@ In your main function, start a loop.
 In the loop, ask the user what currency code they would like to convert to
 And, how many dollars they want to convert.
 
+If you scroll down, you can see an example response with the available 3-letter currency codes.
+
 Call the get_exchange_rates() function. 
 This function returns a dictionary with another dictionary inside it. 
 You'll need to get the exchange rate from the dictionary.
 
+If the user enters a code that is not in the dictionary, your program should not crash.
+ It should print a message saying the code was not found, and repeat the loop so they can try again.
+
 Then, do the math. For example, if the user wants to convert $100 to Euros (EUR), 
 and the exchange rate is 0.874, then you need to multiply the US Dollar amount by 
 the exchange rate to get the amount in Euros. $100 is about $87 Euro.
+
 
 Don't modify the get_exchange_rates function or the example_exchange_rates function. 
 
