@@ -13,8 +13,10 @@ print(words[0])  # The first word, 'Programming'
 # split() with an argument splits the string by that character
 url = 'https://en.wikipedia.org/wiki/Binary_number'
 parts = url.split('/')
+print(parts)        # # ['https:', '', 'en.wikipedia.org', 'wiki', 'Binary_number']
 topic = parts.pop()
 print(topic)  # 'Binary_number'
+
 
 # split() with an argument that isn't in the string results in a list of one item - the entire original string
 message = 'No dollar signs in this string.'
