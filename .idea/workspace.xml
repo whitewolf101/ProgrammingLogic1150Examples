@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c38fbbc-6e27-421f-a728-4e30b1851415" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/9_files/hours_worked.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/read_entire_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/read_file_and_process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/read_file_into_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/read_file_line_by_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/states.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/visit_all_the_states.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/visit_all_the_states_error_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/write_hello_to_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/write_list_to_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/write_list_to_file_join_newlines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_files/write_list_to_file_newlines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/1150ProgrammingLogicExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1150ProgrammingLogicExamples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_apis_json/cat_fact.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_files/filename_with_date.py" beforeDir="false" afterPath="$PROJECT_DIR$/9_files/filename_with_date.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_if_statements/choose_your_adventure.py" beforeDir="false" afterPath="$PROJECT_DIR$/review/choose_your_adventure.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -193,13 +179,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="visited_states.data" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9_files/visited_states.data">
+      <file leaf-file-name="cat_fact.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_apis_json/cat_fact.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="choose_your_adventure.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/review/choose_your_adventure.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="truthy_and_falsey_values.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_if_statements/truthy_and_falsey_values.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -237,7 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6_lists/add_and_multiply_lists.py" />
         <option value="$PROJECT_DIR$/6_lists/random_and_lists.py" />
         <option value="$PROJECT_DIR$/6_lists/pop_from_list.py" />
         <option value="$PROJECT_DIR$/6_lists/remove_from_list.py" />
@@ -288,6 +282,7 @@
         <option value="$PROJECT_DIR$/9_files/visit_all_the_states.py" />
         <option value="$PROJECT_DIR$/9_files/visit_all_the_states_error_handling.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/10_apis_json/cat_fact.py" />
       </list>
     </option>
   </component>
@@ -343,7 +338,17 @@
             <path>
               <item name="ProgrammingLogic1150Examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgrammingLogic1150Examples" type="462c0819:PsiDirectoryNode" />
-              <item name="9_files" type="462c0819:PsiDirectoryNode" />
+              <item name="2_variables" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingLogic1150Examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingLogic1150Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="8_strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingLogic1150Examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingLogic1150Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="review" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -380,6 +385,7 @@
       <recent name="$PROJECT_DIR$/3_loops" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/review" />
       <recent name="$PROJECT_DIR$/6_lists" />
       <recent name="$PROJECT_DIR$/3_loops" />
       <recent name="$PROJECT_DIR$/2_if_statements" />
@@ -666,7 +672,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="23" width="1118" height="821" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -674,8 +679,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32872927" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32729805" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33425415" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5953039" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3020446" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2320442" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3020446" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
@@ -742,27 +747,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="some string examples" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/hello_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/country_codes_lookup_alt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_dictionaries/country_codes_lookup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7_dictionaries/rooms_and_paint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -1063,10 +1047,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/9_files/visited_states.data">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/10_apis_json/cat_fact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review/choose_your_adventure.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_if_statements/truthy_and_falsey_values.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
