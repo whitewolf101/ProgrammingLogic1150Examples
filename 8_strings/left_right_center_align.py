@@ -4,10 +4,10 @@ Padding with other characters
 
 
 message = "Hello"
-print(f'{message:20}')    # left aligned - default for string with no alignment operator
-print(f'{message:<20}')   # left aligned
-print(f'{message:>20}')   # Right aligned in a 20-character area
-print(f'{message:^20}')   # Centered in a 20-character area
+print(f'{message:20}World')    # left aligned - default for string with no alignment operator
+print(f'{message:<20}World')    # left aligned
+print(f'{message:>20}World')   # Right aligned in a 20-character area
+print(f'{message:^20}World')   # Centered in a 20-character area
 
 print()
 
@@ -42,3 +42,4 @@ print()
 print(f'{total:$<20}')    # left aligned, padded with $
 print(f'{total:$>20}')    # Right aligned in a 20-character area, padded with $
 print(f'{total:$^20}')    # Centered in a 20-character area, padded with $
+
