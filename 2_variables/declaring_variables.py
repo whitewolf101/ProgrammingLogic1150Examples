@@ -5,8 +5,11 @@ username = 'Beyonce'
 credit_card_type = 'Visa'
 textbook_title = 'Automate the Boring Stuff'
 textbook_author = 'Al Sweigart'
+
 car = 'Toyota'
+
 player_name = 'Sonic'
+
 item_description = 'Beyonce Tour T-Shirt, $20'
 latest_message = 'Hey, wanna get coffee?'
 

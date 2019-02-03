@@ -7,4 +7,5 @@ message = 'Hello Python Programmers'
 words = message.split()
 
 
-# TODO
+for word in words:
+    print(word)
