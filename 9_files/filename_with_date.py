@@ -1,10 +1,11 @@
+""" Writes to a file with the current date and time in the filename"""
+
 from datetime import datetime
 
 
-print(datetime.now())
 now = datetime.now()
-now_string = now.strftime("%d_%h_%y_%I_%M%p")
-print(now_string)
+now_string = now.strftime("%d_%h_%y_%I%M%p")
 
-with open(now_string + '.txt', 'w') as f:
+# Writes to a file with a name in the format 03_Feb_19_1046AM_file.txt
+with open(f'{now_string}_file.txt', 'w') as f:
     f.write('hello')
