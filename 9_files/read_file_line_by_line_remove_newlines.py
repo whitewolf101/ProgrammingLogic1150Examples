@@ -5,6 +5,7 @@ Your program only has to store one line in memory at once. """
 
 f = open('planets.txt', 'r')
 for line in f:
+    line = line.rstrip()
     print(line)
 
 f.close()
