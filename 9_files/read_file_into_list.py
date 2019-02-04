@@ -2,8 +2,10 @@
  What problem could there be if the file is really, really large? """
 
 
-with open('data.txt', 'r') as f:
-    lines = f.readlines()
+f = open('data.txt', 'r')
+lines = f.readlines()
+f.close()
+
 
 print('All of the lines from the file:')
 print(lines)

@@ -30,19 +30,21 @@ def main():
 
 def read_states_file(filename):
     states_list = []
-    with open(filename) as f:
-        for state in f:
-            state = state.strip()  # Remove newline
-            states_list.append(state)
+    f = open(filename)
+    for state in f:
+        state = state.strip()  # Remove newline
+        states_list.append(state)
+    f.close()
 
     return states_list
 
 
 def save_visited_states(states, filename):
-    with open(filename, 'w') as f:
-        for state in states:
-            f.write(state)
-            f.write('\n')
+    f = open(filename, 'w')
+    for state in states:
+        f.write(state)
+        f.write('\n')
+    f.close()
 
 
 main()

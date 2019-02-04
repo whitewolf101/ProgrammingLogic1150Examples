@@ -4,7 +4,7 @@ Notice that the file is overwritten if it already exists."""
 
 data = ['pizza', 'chips', 'nachos', 'soda']
 
-with open('data_newlines.txt', 'w') as f:
-    for line in data:
-        f.write(line)
-        f.write('\n')
+f = open('data_newlines.txt', 'w')
+for line in data:
+    f.write(line)
+    f.write('\n')

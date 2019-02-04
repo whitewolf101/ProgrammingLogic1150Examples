@@ -29,10 +29,10 @@ def main():
 def read_states_file(filename):
     states_list = []
     try:
-        with open(filename) as f:
-            for state in f:
-                state = state.strip()  # Remove newline
-                states_list.append(state)
+        f = open(filename)
+        for state in f:
+            state = state.strip()  # Remove newline
+            states_list.append(state)
     except IOError:
         print(f'Warning - {filename} not found.')
 
@@ -41,10 +41,10 @@ def read_states_file(filename):
 
 def save_visited_states(states, filename):
     try:
-        with open(filename, 'w') as f:
-            for state in states:
-                f.write(state)
-                f.write('\n')
+        f = open(filename, 'w')
+        for state in states:
+            f.write(state)
+            f.write('\n')
     except IOError:
         print('Error writing states file.')
 

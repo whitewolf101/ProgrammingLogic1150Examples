@@ -2,13 +2,13 @@
 
 hours_worked = {}
 
-with open('hours_worked.data') as f:
-    for line in f:
-        data = line.split(':')
-        day = data[0]
-        hours = int(data[1])
-        hours_worked[day] = hours
-
+f = open('hours_worked.data')
+for line in f:
+    data = line.split(':')
+    day = data[0]
+    hours = int(data[1])
+    hours_worked[day] = hours
+f.close()
 
 print(hours_worked)
 total_hours = sum(hours_worked.values())

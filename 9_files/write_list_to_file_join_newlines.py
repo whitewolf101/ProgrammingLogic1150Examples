@@ -6,5 +6,6 @@ data = ['pizza', 'chips', 'nachos', 'soda']
 
 all_data = '\n'.join(data)
 
-with open('data_joined_with_newlines.txt', 'w') as f:
-    f.write(all_data)
+f = open('data_joined_with_newlines.txt', 'w')
+f.write(all_data)
+f.close()
