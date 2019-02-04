@@ -6,15 +6,13 @@ Make sure states.data nd visited_states.data exist before starting the program.
 
 
 def main():
-
     visited = read_states_file('visited_states.data')
     all_states = read_states_file('states.data')
-
-    print('These are the states you have visited:')
+    print('These are the states you have visited so far:')
     print(visited)
 
     while True:
-        new_state = input('Enter the name of the state you have visited or enter to quit.')
+        new_state = input('Enter a state you have visited (enter to quit) ')
         if not new_state:
             break
         if new_state not in all_states:
@@ -22,9 +20,7 @@ def main():
         else:
             visited.append(new_state)
 
-
-    # Sort into alphabetical order and save.
-    visited.sort()
+    visited.sort()     # Sort into alphabetical order
     save_visited_states(visited, 'visited_states.data')
 
 
@@ -35,7 +31,6 @@ def read_states_file(filename):
         state = state.strip()  # Remove newline
         states_list.append(state)
     f.close()
-
     return states_list
 
 
@@ -48,3 +43,4 @@ def save_visited_states(states, filename):
 
 
 main()
+

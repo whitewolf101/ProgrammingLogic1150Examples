@@ -20,9 +20,7 @@ def main():
         else:
             visited.append(new_state)
 
-
-    # Sort into alphabetical order and save.
-    visited.sort()
+    visited.sort()  # Sort into alphabetical order
     save_visited_states(visited, 'visited_states.data')
 
 
@@ -34,7 +32,7 @@ def read_states_file(filename):
             state = state.strip()  # Remove newline
             states_list.append(state)
     except IOError:
-        print(f'Warning - {filename} not found.')
+        print(f'States visited file not found, will be created.')
 
     return states_list
 
@@ -47,6 +45,7 @@ def save_visited_states(states, filename):
             f.write('\n')
     except IOError:
         print('Error writing states file.')
+
 
 main()
 

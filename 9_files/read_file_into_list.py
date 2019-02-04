@@ -2,7 +2,7 @@
  What problem could there be if the file is really, really large? """
 
 
-f = open('data.txt', 'r')
+f = open('planets.txt', 'r')
 lines = f.readlines()
 f.close()
 
