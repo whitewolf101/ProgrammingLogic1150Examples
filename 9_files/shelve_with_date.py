@@ -1,4 +1,4 @@
-""" Writes to a file with the current date and time in the filename"""
+""" Writes to a shelf file with the current date and time in the filename"""
 
 from datetime import datetime
 import shelve
