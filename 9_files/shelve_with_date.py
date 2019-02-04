@@ -4,8 +4,10 @@ from datetime import datetime
 import shelve
 
 
+# now has a datetime objects that represents the current date/time
 now = datetime.now()
-now_string = now.strftime("%d_%h_%y")
+# strftime formats dates into strings. More info here: https://docs.python.org/3.7/library/datetime.html#strftime-and-strptime-behavior
+now_string = now.strftime("%d_%h_%y")  # The %d = date, %h = month %y = year are replaced with the values from the date
 print(now_string)  # Just to see the string created
 
 # Example data - perhaps these are pokemon statistics on a certain day
