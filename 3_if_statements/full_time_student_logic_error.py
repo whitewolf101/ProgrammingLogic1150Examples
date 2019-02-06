@@ -5,7 +5,7 @@ Full time: 12 or more credits
 Half time: 6-11 credits
 Less than half time: 1-5 credits
 
-BUT this program doesn't work as expected. What does it print if you enter 7
+BUT this program doesn't work as expected. What does it print if you enter 15?
 
 """
 
