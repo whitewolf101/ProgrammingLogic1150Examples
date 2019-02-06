@@ -1,3 +1,5 @@
+""" Quiz s"""
+
 quiz_score = float(input('Please enter the quiz score, out of 100: '))
 
 # Print a special message if the student has a perfect score

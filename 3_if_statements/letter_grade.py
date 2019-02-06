@@ -1,3 +1,5 @@
+""" Using if, elif, elif else to convert a percent grade to a letter grade. """
+
 quiz_score = float(input('Please enter the quiz score, out of 100: '))
 
 # Convert quiz score to a letter grade
