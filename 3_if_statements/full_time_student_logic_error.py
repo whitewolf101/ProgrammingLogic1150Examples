@@ -12,7 +12,7 @@ BUT this program doesn't work as expected. What does it print if you enter 7
 number_of_credits = int(input('How many credits you are taking this semester? '))
 
 # This if - elif - else statement doesn't work as expected. Can you see why?
-# Try with 7 credits - it doesn't print the right answer.
+# Try with 15 credits - it doesn't print the right answer.
 
 if number_of_credits >= 6:
     print('You are a half-time student')
