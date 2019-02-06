@@ -22,7 +22,7 @@ if password != 'kittens':
 
 
 # Using the greater than > operator to check if a number is greater (larger) than another number
-temperature = float(input('Enter the number of students in class'))
+temperature = float(input('Enter the temperature, in Fahrenheit: '))
 if temperature > 32:
     print('The temperature is above freezing. ')
 
