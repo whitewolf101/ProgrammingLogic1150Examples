@@ -14,7 +14,7 @@ while True:
         request.urlopen(url).read()
         print('You seem to be online')
         # Beep!! This only works on Windows.
-        windsound.MessageBeep()
+        winsound.MessageBeep()
     except:
         print('You are NOT online')
 
