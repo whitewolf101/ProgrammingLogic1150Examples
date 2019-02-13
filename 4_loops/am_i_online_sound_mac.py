@@ -3,6 +3,7 @@ from time import sleep
 import os
 
 # A URL for a website that we expect to be available, if we are online
+# Mac users, this may fail. Try http://www.google.com without the s
 url = 'https://www.google.com'
 
 seconds_to_sleep_between_checks = 3
