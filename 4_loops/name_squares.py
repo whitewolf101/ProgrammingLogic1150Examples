@@ -25,6 +25,17 @@ for letter in name:
     print(line)
 
 
+
+print()
+print('Your name, vertical square, alternative method')
+print()
+
+for letter in name:
+    line = letter * len(name)
+    print(line)
+
+
+
 print()
 print('Your name, as a triangle')
 
