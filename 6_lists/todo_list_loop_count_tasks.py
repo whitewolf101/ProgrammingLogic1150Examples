@@ -11,7 +11,7 @@ while True:
     if task:   # An empty string is False
         todo_list.append(task)   # Add task to end of todo_list
     else:
-        break   # If user entered empty string, end the loop
+        break   # If user entered an empty string, end the loop
 
 print('Thank you. Your tasks are:')
 
@@ -19,7 +19,7 @@ for task in todo_list:  # For every task in the todo_list,
     print(task)         # print the task.
 
 number_of_tasks = len(todo_list)
-print(f'You have {number_of_tasks} to do.')
+print(f'You have {number_of_tasks} tasks to do.')
 
 
 
