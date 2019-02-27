@@ -21,7 +21,11 @@ def can_donate_blood(weight, age):
         problem = 'you do not weigh enough, must weigh at least 110lbs'
         return False, problem
 
-    return True, None  # None replaces problem if there's no problem to return
+    return True, None  # It's recommended to be consistent in what a function returns
+    # so the caller knows what to expect.
+    # When there's a problem, there's two things to return.
+    # When there isn't, we can return True, None so that two things are returned but the
+    # called can figure out that there is no problem
 
 
 main()
