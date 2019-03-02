@@ -1,3 +1,10 @@
+""" A very basic choose-your-adventure. Using loops, functions and more data would make
+this much more interesting. You might want to have a list of your character's inventory,
+ variables for health, experience, other attributes; other features.
+
+Start with this, or write your own story. """
+
+
 import sys
 
 print('Welcome, adventurer!')
