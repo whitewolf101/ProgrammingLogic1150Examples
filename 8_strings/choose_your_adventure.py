@@ -9,7 +9,7 @@ if choice.upper() == 'R':
     print('The forest is too scary for many scary beasts, so they live just outside it. One of these ate you. THE END')
     sys.exit()
 else:
-    print('You start walking into the forest. It doesn\'t take long for you to loose sight of the sun')
+    print('You start walking into the forest. It doesn\'t take long for you to lose sight of the sun')
 
 print('As you push through the undergrowth, you hear the sound of something behind you. Whatever it is, is very large.')
 
