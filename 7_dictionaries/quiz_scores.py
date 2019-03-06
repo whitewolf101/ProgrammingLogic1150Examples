@@ -6,7 +6,7 @@ al_score = scores['Al']
 print(al_score)  # 9
 
 # Reading a score
-dora_score = ['Dora']
+dora_score = scores['Dora']
 print(dora_score)  # 10
 
 # Changing a score. Cory re-took his quiz
