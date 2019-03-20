@@ -15,12 +15,11 @@ This function returns a dictionary with another dictionary inside it.
 You'll need to get the exchange rate from the dictionary.
 
 If the user enters a code that is not in the dictionary, your program should not crash.
- It should print a message saying the code was not found, and repeat the loop so they can try again.
+It should print a message saying the code was not found, and repeat the loop so they can try again.
 
 Then, do the math. For example, if the user wants to convert $100 to Euros (EUR), 
 and the exchange rate is 0.874, then you need to multiply the US Dollar amount by 
-the exchange rate to get the amount in Euros. $100 is about $87 Euro.
-
+the exchange rate to get the amount in Euros. So to convert $100 to Euro, 100 * 0.874 = 87.4 Euro.
 
 Don't modify the get_exchange_rates function or the example_exchange_rates function. 
 
@@ -33,8 +32,7 @@ def main():
 
 
 
-# You do not need to modify any code below here line.
-
+# You do not need to modify any code below here.
 
 def get_exchange_rates():
     """" Connect to the exchangeratesapi.io server and request the latest exchange rates,
@@ -42,18 +40,22 @@ def get_exchange_rates():
 
     url = 'https://api.exchangeratesapi.io/latest?base=USD'
 
-    try:
-        response = request.urlopen(url).read()
-        data = json.loads(response)
-        return data
-    except:
-        print('Warning: there was an error fetching data. Check that you are online? Returning example data.')
+    try:  # Attempt to connect to the exchangeratesapi server
+        response = request.urlopen(url).read()   # and get the server's response
+        data = json.loads(response)   # convert the response to a Python dictionry
+        return data # return the dictionary
+    except:  # this code runs if there's any error fetching data.
+        # It returns some example data, that has the same structure as real data, to use instead
+        # So it's no problem if you don't have an internet connection or there exchangeratesapi server is down.
+        print('There was an error fetching real data. Perhaps you are offline? Returning example data.')
         return example_exchange_rates()
 
 
 def example_exchange_rates():
-    """ In case the exchangeratesapi.io is not available, the program will use this example data. """
-    return {
+    """ In case the exchangeratesapi.io is not available, the program will use this example data.
+     This data has the same structure as real data, so your program doesn't need to worry if real data
+     or example data is used. """
+    example_data = {
        "base": "USD",
        "date": "2019-01-30",
        "rates": {
@@ -92,5 +94,8 @@ def example_exchange_rates():
           "BRL": 3.7091609065
        }
     }
+
+    return example_data
+
 
 main()
