@@ -1,4 +1,4 @@
-""" Quiz s"""
+""" Quiz scores to letter grades"""
 
 quiz_score = float(input('Please enter the quiz score, out of 100: '))
 
