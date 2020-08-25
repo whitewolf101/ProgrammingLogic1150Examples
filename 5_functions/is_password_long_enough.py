@@ -1,5 +1,6 @@
 """ A function that checks if a password is at least 8 characters """
 
+
 def is_password_long_enough(password):
     # Return True if password is at least 8 characters
     if len(password) >= 8:
@@ -18,3 +19,4 @@ def main():
 
 
 main()
+
