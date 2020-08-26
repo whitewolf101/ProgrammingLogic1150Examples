@@ -10,11 +10,10 @@ def above_freezing(temp):
 
 
 def main():
-
     # Call the above_freezing function, in different ways
 
     today_temp = float(input('Please enter today\'s high temperature: '))
-    # Save the result of the function call, then use it in a print statement
+    # Call the function in a print statement
     print('It will be ' + above_freezing(today_temp) + ' today')
 
     tonight_temp = float(input('Please enter tonight\'s low temperature: '))
@@ -29,3 +28,4 @@ def main():
 
 
 main()
+
