@@ -18,8 +18,10 @@ def main():
     print('It will be ' + above_freezing(today_temp) + ' today')
 
     tonight_temp = float(input('Please enter tonight\'s low temperature: '))
-    # Calling the function in the print statement
-    print('It will be ' + above_freezing(tonight_temp) + ' tonight')
+    # Calling the function, saving the return value in a new variable, using
+    # it later in the program in the print statement
+    above_below_tonight = above_freezing(tonight_temp)
+    print('It will be ' + above_below_tonight + ' tonight')
 
     tomorrow_temp = float(input('Please enter tomorrows\'s high temperature: '))
     # Calling the function in a f-string
