@@ -1,7 +1,5 @@
 """
-Find function
-compare to the in operator
-Use this if you need to know where in a string the text is .
+does a string end with other string?
 """
 
 email = input('Enter your email: ')
