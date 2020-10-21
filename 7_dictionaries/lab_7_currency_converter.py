@@ -33,12 +33,13 @@ do the same thing for real data as it does for example data.
 
 
 def main():
+    # TODO write your code inside this main function.
     print('Remove this print statement, and then write your code here.')
 
 
 
 
-# You do not need to modify any code below here.
+# You do not need to modify any code below here.  There's a call to main at very end of this file.
 
 def get_exchange_rates():
     """" Connect to the exchangeratesapi.io server and request the latest exchange rates,
@@ -48,11 +49,11 @@ def get_exchange_rates():
 
     try:  # Attempt to connect to the exchangeratesapi server
         response = request.urlopen(url).read()   # and get the server's response
-        data = json.loads(response)   # convert the response to a Python dictionry
+        data = json.loads(response)   # convert the response to a Python dictionary
         return data # return the dictionary
     except:  # this code runs if there's any error fetching data.
         # It returns some example data, that has the same structure as real data, to use instead
-        # So it's no problem if you don't have an internet connection or there exchangeratesapi server is down.
+        # So it's no problem if you don't have an internet connection or the exchangeratesapi server is down.
         print('There was an error fetching real data. Perhaps you are offline? Returning example data.')
         return example_exchange_rates()
 
