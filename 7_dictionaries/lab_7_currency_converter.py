@@ -25,9 +25,8 @@ Display the result to the user. Format the number to 2 decimal places.
 Don't modify the get_exchange_rates function or the example_exchange_rates function. 
 These functions get data from exchangeratesapi.io. If this site is not available or your 
 computer is not online, then get_exchange_rates will return an example dictionary that is the 
-same structure as the exchangeratesapi.io response. This is not an error - your program will
-do the same thing for real data as it does for example data.
-
+same structure as the exchangeratesapi.io response. You don't need to do anything 
+different in your code, the way you process real data is the same as the way you process example data.
 """
 
 
