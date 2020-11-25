@@ -4,8 +4,7 @@ import json
 """
 Complete this program that calculates conversions between US dollars and other currencies.
 
-In your main function, start a loop.
-In the loop, ask the user what currency code they would like to convert to
+In the main function, ask the user what currency code they would like to convert to,
 And, how many dollars they want to convert.
 
 If you scroll down, you can see an example response with the available 3-letter currency codes.
@@ -51,16 +50,18 @@ def get_exchange_rates():
         response = request.urlopen(url).read()   # and get the server's response
         data = json.loads(response)   # convert the response to a Python dictionary
         return data # return the dictionary
-    except:  # this code runs if there's any error fetching data.
+    except:  # this code runs if there's any error encountered when fetching data.
         # It returns some example data, that has the same structure as real data, to use instead
         # So it's no problem if you don't have an internet connection or the exchangeratesapi server is down.
         print('There was an error fetching real data. Perhaps you are offline? Returning example data.')
         return example_exchange_rates()
 
 
+# You do not need to modify this function
+
 def example_exchange_rates():
     """ In case the exchangeratesapi.io is not available, the program will use this example data.
-     This data has the same structure as real data, so your program doesn't need to worry if real data
+     This data has the same structure as real data, so your code does the same thing if real data
      or example data is used. """
     example_data = {
        "base": "USD",
@@ -105,4 +106,4 @@ def example_exchange_rates():
     return example_data
 
 
-main()
+main() # Call main function
