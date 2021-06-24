@@ -1,4 +1,3 @@
-
 game_over = True
 
 if not game_over:
