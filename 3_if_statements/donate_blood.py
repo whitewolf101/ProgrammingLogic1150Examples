@@ -2,6 +2,13 @@
 To be a blood donor, you must be at least 16 years old, and weigh at least 110 lbs.
 This program asks the user for their age and weight,
 and decides if they can give blood or not.
+
+The problem with this approach is that it works ok for two checks, but we'd need
+to write a lot more conditions if there were more things to check for - like a donor
+must be feeling well and healthy. You can't donate blood again if you've donated blood
+in the last 56 days.
+
+https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html
 """
 
 weight = float(input('Please enter your weight, in pounds: '))
