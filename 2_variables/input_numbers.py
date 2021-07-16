@@ -4,7 +4,7 @@
 # If you want to try this out, it's 1391.25 miles from downtown Minneapolis to downtown Seattle.
 miles_to_seattle = float(input('How many miles to Seattle? '))
 
-# Do math - one mile is 1.609, so to convert miles to kilometers, multiply my 1.609.
+# Do math - one mile is 1.609, so to convert miles to kilometers, multiply by 1.609.
 km_to_seattle = miles_to_seattle * 1.609
 
 # Display the answer for the user. Notice that the number has to be converted to a string for printing.
