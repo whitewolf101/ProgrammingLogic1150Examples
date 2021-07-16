@@ -33,17 +33,20 @@ try:
     # if the user enters a number, it will be stored in the variable
     # number and your program can use it.
     print(f'Thank you for entering the number {number_1}')
+    # note you can only use the number_1 variable here.
 except ValueError:
     # if the user doesn't enter a number, the line with int() in raises
     # A ValueError exception and then this block of code will run.
     print('That was not an integer number')
+
+# note that you can't use number_1 variable here - it doesn't exist if the user doesn't enter a number.
 
 
 # How about allowing the user to try again? Use a while loop.
 
 while True:
     try:
-        number_2 = int(input('Please enter an integer number. You have as many tries as you need to enter a number: '))
+        number_2 = float(input('Please enter an floating point number. You have as many tries as you need to enter a number: '))
         # if the user enters a number, it will be stored in the variable
         # number and your program can use it.
         print(f'Thank you for entering the number {number_2}')
@@ -51,8 +54,10 @@ while True:
     except ValueError:
         # if the user doesn't enter a number, the line with int() in raises
         # A ValueError exception and then this block of code will run.
-        print('That was not an integer number. Try again.')
+        print('That was not an floating point number. Try again.')
         # since we are in a while True loop, the loop will repeat and ask the user for input again.
 
-print(f'Number 1 was {number_1}')  # What value does this have if you enter 'cat' for the number 1? You'll see a different error on this line.
 print(f'Number 2 was {number_2}')  # What value does this have? Are we guaranteed to have a value?
+
+
+

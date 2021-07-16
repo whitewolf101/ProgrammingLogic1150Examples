@@ -17,7 +17,7 @@ def int_number_input(question):
             number = int(input(question))  # Ask the question, convert to int and store in variable
             # if the user enters a number, it will be stored in the variable
             # number and your program can use it.
-            return number  # returning from a while loop ends the loop.
+            return number  # returning from a while loop in a function ends the loop.
         except ValueError:
             # if the user doesn't enter a number, the line with int() in raises
             # A ValueError exception and then this block of code will run.
