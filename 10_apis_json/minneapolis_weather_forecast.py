@@ -1,3 +1,5 @@
+""" Weather forecast for Minneapolis using the Weather.gov API """
+
 import requests
 
 url = 'https://api.weather.gov/gridpoints/MPX/107,71/forecast'
